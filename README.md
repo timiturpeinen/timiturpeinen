@@ -1,6 +1,6 @@
 # Hi there, I'm Timi Turpeinen! 👋
 
-🚀 **Mathematician and Data Scientist** | 💡 **Passionate about building innovative solutions** | ![Aalto University](https://images.prismic.io/aalto-master-design-system/c5ac99e1-9455-4b0b-be56-fc67569fb930_Visual+Identity+-+Logo+-+Logo+System+1.png?auto=compress,format&rect=11,0,1899,1068&w=1600&h=900) **Master's stundent & teaching assistant at Aalto university**
+🚀 **Mathematician and Data Scientist** | 💡 **Passionate about building innovative solutions** | <img height="22" alt="aaltologo-modified" src="https://github.com/user-attachments/assets/313902aa-895a-465c-a4b6-e38335101195" align = "center" />  **Master's stundent & teaching assistant at Aalto university**
 
 ## **About me**
 

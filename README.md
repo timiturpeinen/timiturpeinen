@@ -1,6 +1,6 @@
 # Hi there, I'm Timi Turpeinen! 👋
 
-🚀 **Mathematician and Data Scientist** | 💡 **Passionate about building innovative solutions** | <img height="22" alt="aaltologo-modified" src="https://github.com/user-attachments/assets/313902aa-895a-465c-a4b6-e38335101195" align = "center" />  **Master's stundent & teaching assistant at Aalto university**
+🚀 **Mathematician and Data Scientist** | 💡 **Passionate about building innovative solutions** | <img height="22" alt="aaltologo-modified" src="https://github.com/user-attachments/assets/313902aa-895a-465c-a4b6-e38335101195" align = "center" />  **Master's student & teaching assistant at Aalto university**
 
 ## **About me**
 
@@ -32,6 +32,8 @@ One of the main findings of this project is that the time plays little to no eff
 
 #### **Abstract**
 In this thesis, we derive the Johnson-Lindenstrauss theorem and explore its applications. The theorem addresses the embedding of high-dimensional points into lower-dimensional spaces while preserving distances, a process known as high-dimensional reduction. The theorem also has numerous applications in various computational methods. Deriving the theorem requires backgroundknowledge in the concepts of volumes of $n$-dimensional sets, measure theory, metric spaces, topology, and probability theory. The derivation of the main result begins with the Brunn-Minkwoski inequality, which holds for all compact sets. This inequality can be used to prove the general isoperimetric inequality. The isoperimetric inequality is, in turn, useful for examining the measure concentration on the sphere. In this thesis, the measure concentration is used to prove Lévy’s lemma which generally applies to every $1$-Lipschitz function. As a result of the properties of projection functions, Lévy’s lemma can be used in the proof of the main theorem. Finally, in the end we discuss the purpose and useful applications of the main theorem in numerical methods.
+
+* You can find the code of the project [here](https://github.com/naapeli/BDA-project)
 
 ### [*Large Deviations and Applications*](https://github.com/timiturpeinen/Projects/blob/main/Large_Deviations_and_Applications.pdf)
 

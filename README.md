@@ -44,7 +44,7 @@ and Applications*" by Amir Dembo and Ofer Zeitouni [[1](https://nzdr.ru/data/med
 In section 2, we first examine the Large Deviation Principle (LDP) for finite-dimensional spaces, and then extend it to the specific cases of R and Rd. While the focus is primarily on i.i.d. samples, an extension to non-i.i.d. scenarios is explored in section 2.3. Finally, section 2.4 delves into concentration inequalities from an LDP perspective. In section 3 we study the applications of the LDP in finite-dimensional settings, e.g., for Markov processes.
 
 ## 📈 **CV and Up to date transcript of records**
-* [CV](https://github.com/timiturpeinen/Up-to-date-transcript-CV-and-other/blob/main/CV.pdf)
+* [CV](https://github.com/timiturpeinen/Up-to-date-transcript-CV-and-other/blob/main/CV(new).pdf)
 * [Up to date transcript of records](https://github.com/timiturpeinen/Up-to-date-transcript-CV-and-other/blob/main/Up-to-date%20transcript%20of%20records.pdf)
 
 ## 📫 **Let's Connect!**
